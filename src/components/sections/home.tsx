@@ -8,7 +8,7 @@ const Home = () => {
       <br></br>
       <br></br>
       <strong>Warehouse Dashboard Prototype: </strong>
-      <a href="../warehouse/home" target="_blank" className="myButton">Here</a>
+      <a href="https://cesargomezs.github.io/V2test/" target="_blank" className="myButton">Here</a>
       </p>
       <p className="psection">
       Developed a prototype for a location-based legal services app that helps users find nearby lawyers by practice area. The system includes search by geolocation, interactive maps, and lawyer profile listings with contact options.  <br></br>
