@@ -7,7 +7,7 @@ const Home = () => {
         You can click the following link to find the prototype Warehouse Dashboard Prototype.
       <br></br>
       <br></br>
-      <strong>Warehouse Dashboard Prototype: </strong>
+      <strong>Warehouse Dashboard Prototype:  </strong>
       <a href="https://cesargomezs.github.io/V2test/" target="_blank" className="myButton">Here</a>
       </p>
       <p className="psection">
